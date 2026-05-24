@@ -7,7 +7,15 @@ This project is a comprehensive SQL-based Business Intelligence analysis using t
 The goal is to extract actionable business insights related to sales performance, profitability, customer behavior, and operational efficiency.
 
 The analysis focuses on transforming raw transactional data into meaningful KPIs for decision-making.
+---
+## 📌 Business Problem
+Organizations need to understand their sales performance, customer behavior, and operational efficiency in order to make data-driven decisions.
 
+This project analyzes retail sales data to answer key business questions such as:
+- Which products and categories generate the most revenue?
+- How is profit distributed across transactions?
+- Who are the most valuable customers?
+- Are there inefficiencies in delivery and logistics?
 ---
 
 ## 🛠️ Technologies Used
@@ -15,6 +23,16 @@ The analysis focuses on transforming raw transactional data into meaningful KPIs
 - Microsoft SQL Server
 - AdventureWorksDW 2019 Dataset
 
+---
+## 📊 Key Performance Indicators (KPIs)
+
+- Total Sales Revenue
+- Sales Growth Over Time
+- Profit Margin per Transaction
+- Customer Acquisition Trend
+- Top Customers Contribution
+- Average Delivery Time
+- Freight Cost Efficiency
 ---
 
 ## 📊 Key Business Analyses
@@ -91,6 +109,14 @@ This project was created to demonstrate:
 - Business Intelligence thinking
 - Data-driven decision making
 - Ability to extract KPIs from raw data
+---
+## 🧾 Executive Summary
+
+The analysis reveals that revenue is highly concentrated in specific product categories and a small group of customers contributes a significant portion of total sales.
+
+Profitability varies significantly across transactions, showing that high revenue does not always translate into high profit.
+
+Additionally, delivery delays and regional freight cost differences indicate potential inefficiencies in logistics operations that may require further investigation.
 
 ---
 
