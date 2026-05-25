@@ -1,4 +1,5 @@
-# SQL_BI_Projects
+# project-01-AdventureWorkdsDw2019-bi-analysis
+
 SQL projects for Business Intelligence portfolio (data analysis, reporting, and querying)
 # Sales & Business Intelligence Analysis — AdventureWorksDW 2019
 
